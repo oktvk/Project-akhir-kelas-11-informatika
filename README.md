@@ -1,4 +1,4 @@
-![Program Result](result.png)
+![Program Result](Result.png)
 - Ohm's Law Calculator
 
 -- Deskripsi Project
